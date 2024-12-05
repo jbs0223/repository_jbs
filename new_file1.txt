@@ -1,2 +1,6 @@
 Hello! My name is Jeon Byeong Seon.
 Kumoh National Institute of Technology.
+
+Computer Sciences
+C Programming
+Object-oriented Programming
